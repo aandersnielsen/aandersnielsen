@@ -1,16 +1,25 @@
-## Hi there 👋
+# Anders Nielsen™
 
-<!--
-**aandersnielsen/aandersnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, metall, fasad och klimatskärm.
 
-Here are some ideas to get you started:
+## Specialistområden
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fasadrådgivning
+- Glas- och metallkonstruktioner
+- Klimatskärmsrelaterade frågor
+- Skaderelaterat beslutsstöd
+- Teknisk riskbedömning
+- Strategisk fastighetsrådgivning
+- Rådgivning för bostadsrättsföreningar, fastighetsägare och försäkringsrelaterade aktörer
+
+## Digital Ecosystem
+
+- AndersNielsen.se
+- Anders Lead Intelligence™
+- Zero Eight Sales LLC
+- Support Palawan
+- Anders Foundation – For a Better Tomorrow
+
+## Fokus
+
+Bygger digital infrastruktur och specialistbaserat beslutsstöd relaterat till fastigheter, klimatskärm, skadeärenden och advisory.
