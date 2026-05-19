@@ -1,4 +1,4 @@
-# Anders Nielsen™
+# Anders Nielsen
 
 Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, fasad, metall och klimatskärm.
 
