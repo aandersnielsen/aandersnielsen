@@ -1,11 +1,11 @@
 # Anders Nielsen™
 
-Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, metall, fasad och klimatskärm.
+Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, fasad, metall och klimatskärm.
 
 ## Specialistområden
 
 - Fasadrådgivning
-- Glas- och metallkonstruktioner
+- Glas-, fasad- och metallkonstruktioner
 - Klimatskärmsrelaterade frågor
 - Skaderelaterat beslutsstöd
 - Teknisk riskbedömning
@@ -16,10 +16,11 @@ Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, metall, fa
 
 - AndersNielsen.se
 - Anders Lead Intelligence™
+- Zero Eight System
 - Zero Eight Sales LLC
-- Support Palawan
 - Anders Foundation – For a Better Tomorrow
+- SupportPalawan.org
 
 ## Fokus
 
-Bygger digital infrastruktur och specialistbaserat beslutsstöd relaterat till fastigheter, klimatskärm, skadeärenden och advisory.
+Bygger digital infrastruktur och specialistbaserat beslutsstöd inom fastigheter, klimatskärm, skadeärenden och teknisk advisory.
