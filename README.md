@@ -1,6 +1,6 @@
 # Anders Nielsen
 
-Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, fasad, metall och klimatskärm.
+Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, fasad, klimatskärm och komplexa tekniska miljöer.
 
 ## Specialistområden
 
@@ -23,4 +23,4 @@ Oberoende tekniskt beslutsstöd och strategisk rådgivning inom glas, fasad, met
 
 ## Fokus
 
-Bygger digital infrastruktur och specialistbaserat beslutsstöd inom fastigheter, klimatskärm, skadeärenden och teknisk advisory.
+Bygger digital struktur och specialistbaserat beslutsstöd inom fastigheter, klimatskärm, skadeärenden och teknisk advisory.
