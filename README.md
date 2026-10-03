@@ -1,86 +1,31 @@
 # Anders Nielsen
 
-I work where infrastructure, business, technology, and digital structure meet.
+**AI & Digital Business Development | B2B Sales**
 
-My background includes infrastructure, construction, glass and façade systems, renewable energy, B2B sales, business development, and technical advisory.
+Anders Nielsen is a Swedish business professional with more than 20 years of experience in technical and commercial B2B environments.
 
-## Focus Areas
+His background combines B2B sales, business development, commercial project management, technical understanding, and entrepreneurship across renewable energy, the glass industry, construction, building engineering, and industry.
 
-* Infrastructure and technical environments
-* Technical and commercial advisory
-* Business development
-* B2B sales
-* Technical solution sales
-* Construction, glass, façade, and energy
-* Digital structure
-* AI Visibility
-* Commercial analysis and decision support
+His current direction builds on this experience through AI-supported research, commercial intelligence, digital sales, and market development — using new technologies and structured commercial methods to understand markets, identify opportunities, reach relevant decision-makers, and support better B2B decisions.
 
-## Credentials
+## Current direction
 
-* Construction Engineer — SBR, Sweden
-* Business Management — IHM Business School, Sweden, 2026
+- AI & Digital Business Development
+- B2B Sales & Market Development
+- Commercial Research & Intelligence
+- GTM & Customer Acquisition
+- Analysis & Decision Support
 
-## What I’m Building
+Current work includes understanding buyers and competitive markets, shaping relevant outreach, and supporting customer acquisition through structured sales processes.
 
-* AI Visibility Systems
-* Commercial Intelligence Systems
-* Lead Research Workflows
-* Digital Entity Structure
-* Technical Knowledge Platforms
+International business development, including Nordic market development, is an emerging professional direction.
 
-## Systems & Methods
+## Professional background
 
-* Structured Data
-* AI Visibility
-* Digital Entity Structure
-* Lead Intelligence
-* Research Workflows
-* Business Process Automation
+His professional background includes Eltel Networks, Ramirent, Alstra Energy, Fasadglas, and Ryds Glas, as well as entrepreneurial experience.
 
-## Mission
+## Education and credentials
 
-Helping companies become easier to find, understand, trust, and recommend in AI-driven environments.
+Business Management — IHM Business School
 
-## Digital Ecosystem
-
-### AndersNielsen.se
-
-My professional platform for advisory, business development, technical knowledge, and commercial work.
-
-### Zero Eight Systems
-
-AI Visibility systems that help companies become easier for AI to find, understand, trust, and recommend.
-
-Main services:
-
-* AI Visibility Audit
-* AI Visibility System
-* AI Authority Retainer
-
-### Anders Lead Intelligence™
-
-A structured system for lead research, business development, targeting, and relationship building.
-
-### Zero Eight Sales LLC
-
-The legal and commercial company behind Zero Eight Systems and related business activities.
-
-## Current Direction
-
-My current focus is to build a connected professional ecosystem.
-
-The goal is to combine infrastructure, technical experience, commercial work, business development, and AI Visibility in one clear structure.
-
-Anders Nielsen is the main professional identity.
-
-Zero Eight Systems is the AI Visibility service and system.
-
-Over time, these areas may become more closely connected.
-
-## Links
-
-* Website: https://andersnielsen.se/
-* Zero Eight Systems: https://zeroeightsales.com/
-* GitHub: https://github.com/aandersnielsen
-
+Building Engineers SBR — Swedish Association of Building Engineers
